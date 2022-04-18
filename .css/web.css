@@ -1,0 +1,54 @@
+/*
+Name: Naman
+Id: 123362212
+Email: naman4@myseneca.ca
+*/
+
+html {
+  width: 95%;
+  overflow-wrap: break-word;
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
+#name {
+  font-size: 3em;
+  font-style: italic;
+  text-align: center;
+  margin-top: -2%;
+  color: rgb(0, 0, 0);
+}
+#C1 {
+  float: left;
+  width: 45%;
+}
+#C1-1 {
+  margin-top: 35%;
+}
+#edu {
+  color: black;
+}
+#C2 {
+  float: right;
+  width: 40%;
+}
+#C2-1 {
+  float: left;
+}
+#C2-2 {
+  float: right;
+  width: 70%;
+}
+.is-center {
+  justify-content: center;
+}
+
+#contact{
+color: black;
+}
+.form{
+    background: #84b0df;
+    color: #aaa;
+    padding: 2em;
+    border-bottom: 1px solid rgba(0,0,0,0.1);
+    margin-top: 79%;
+}
